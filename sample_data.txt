@@ -1,0 +1,62 @@
+
+{
+    "description": "Four Tet",
+    "date": "2016-05-10T00:00:00.000Z",
+    "address": "Audio, San Francisco, CA",
+    "location": "Audio Club",
+    "details": "Kieran Hebden, best known by the stage name Four Tet, is an English post-rock and electronic musician. Hebden first came to prominence as a member of the band Fridge before establishing himself as a solo artist.",
+    "price": 20,
+    "category": "festival",
+    "medium": "video",
+    "orientation": "landscape",
+    "ticketUrl": "https://www.wayfarermobile.com",
+    "originalUrl": "https://www.wayfarermobile.com",
+    "url": "https://experiences-api.s3.amazonaws.com/ef6741c0-5b20-499c-bb74-b97e7d5ba1c8.mp4",
+    "size": "2335788",
+    "fileType": "video/mp4",
+    "createdAt": "2016-04-09T20:34:57.747Z",
+    "updatedAt": "2016-04-12T19:55:57.947Z",
+    "id": "57096771e965e10300876753"
+  },
+
+
+
+
+
+
+"description": "Parachute",
+    "date": "2016-04-19T00:00:00.000Z",
+    "address": "Great American Music Hall, San Francisco",
+    "location": "Great American Music Hall",
+    "details": "Parachute is an American pop rock band from Charlottesville, Virginia. Originally formed in 2006, they released their major label debut album Losing Sleep in 2009, their second album The Way It Was in 2011 and their third album, Overnight, in 2013.",
+    "price": 50,
+    "category": "event",
+    "medium": "video",
+    "orientation": "landscape",
+    "ticketUrl": "https://seatgeek.com/parachute-with-boh-doran-and-jon-mclaughlin-tickets/san-francisco-california-great-american-music-hall-2016-04-19-7-pm/concert/3053719",
+    "originalUrl": "https://www.youtube.com/watch?v=zs9m_5fQeSg",
+    "url": "https://experiences-dev.s3.amazonaws.com/c35a8d3c-e9c1-4939-8dba-dd302de1ecd3.mp4",
+    "size": "29243631",
+    "fileType": "video/mp4",
+
+
+
+
+
+
+"description": "Michal Menert ",
+    "date": "2016-04-19T00:00:00.000Z",
+    "address": "1015 Folsom St. San Francisco, CA",
+    "location": "1015 Folsom",
+    "details": "Michal Menert is an American electronic music producer, and the founder of Super Best Records. He was also the first artist on the Pretty Lights Music label and was an integral part of Pretty Lights",
+    "price": 15,
+    "category": "event",
+    "medium": "video",
+    "orientation": "landscape",
+    "ticketUrl": "http://www.eventbrite.com/e/alex-allyson-grey-dimond-saints-gaudi-michal-menert-bicycle-day-at-1015-folsom-tickets-23063378185",
+    "originalUrl": "https://www.youtube.com/watch?v=Pe2Nu9whqDo",
+
+
+
+
+
