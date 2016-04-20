@@ -5,6 +5,8 @@ from pytube import YouTube
 from pprint import pprint
 
 """
+  Install Instructions:
+
 	Make sure ffmpeg and 'pip install pytube'
 	Python 2.7.10
 	sudo easy_install BeautifulSoup4
@@ -12,7 +14,7 @@ from pprint import pprint
 """
 
 
-"""
+""" Some example code from a different other scraping script:
 def parseUrl(url):
 	parts = url.split('/')
 	if len(parts) == 6:
@@ -117,23 +119,6 @@ if __name__=='__main__':
 """
 	type(locationLink)
 	<class 'bs4.element.Tag'>
-"""
-
-
-"""
-	findAndDownloadImage(opener, url)
-
-	# find next page
-	next_page = findNextPage(opener, url)
-	while next_page:
-		# set next_page to False if there is no next page aka when there is no <img id='img'
-		next_page = findNextPage(opener, url)
-		url = ROOT + next_page
-		manga, chapter, page = parseUrl(url)
-		findAndDownloadImage(opener, url)
-		# print manga, chapter, page, "was saved!"
-		pass
-
 """
 
 
